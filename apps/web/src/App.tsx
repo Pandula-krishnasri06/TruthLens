@@ -43,7 +43,7 @@ type DatasetInfo = {
   }[];
 };
 
-const API = "/api";
+const API = "https://truthlens-2pec.onrender.com/api";
 
 const MODEL_NAMES = [
   "ANN",
